@@ -8,6 +8,6 @@ Loan prediction using logistic regression is a classic binary classification pro
 # Details About The Files:
 A prediction Model based on logistic regression algorithm with an accuracy 84.86486486486487 %
 
-*test.csv and train.csv contains the raw dataset.
+* test.csv and train.csv contains the raw dataset.
 
-*The Loan Prediction notebook contains the analysis part.
+* The Loan Prediction notebook contains the analysis part.
